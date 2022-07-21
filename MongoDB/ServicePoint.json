@@ -1,0 +1,184 @@
+[
+ {
+   "ServicePoint_ID": 1276171358,
+   "CITY": "Stuttgart",
+   "loc": {
+     "type":"Point",
+   "Coordinates": [48.7761,9.1775]
+   },
+   "Country": "Germany",
+   "State": "Baden-W�rttemberg",
+   "TotalNumberOfCars": 100,
+   "NumberOfActiveBookings": 2,
+   "CarsAvailable": 98
+ },
+ {
+   "ServicePoint_ID": 1276150104,
+   "CITY": "Mannheim",
+   "loc": {
+    "type":"Point",
+  "Coordinates": [49.4878,8.4661]
+  },
+   "Country": "Germany",
+   "State": "Baden-W�rttemberg",
+   "TotalNumberOfCars": 25,
+   "NumberOfActiveBookings": 17,
+   "CarsAvailable": 8
+ },
+ {
+   "ServicePoint_ID": 1276923210,
+   "CITY": "Karlsruhe",
+   "loc": {
+    "type":"Point",
+  "Coordinates": [49.0167,8.4]
+  },
+   "Country": "Germany",
+   "State": "Baden-W�rttemberg",
+   "TotalNumberOfCars": 25,
+   "NumberOfActiveBookings": 25,
+   "CarsAvailable": 0
+ },
+ {
+   "ServicePoint_ID": 1276371228,
+   "CITY": "Freiburg im Breisgau",
+   "loc": {
+    "type":"Point",
+  "Coordinates": [47.995,7.85]
+  },
+   "Country": "Germany",
+   "State": "Baden-W�rttemberg",
+   "TotalNumberOfCars": 50,
+   "NumberOfActiveBookings": 39,
+   "CarsAvailable": 11
+ },
+ {
+   "ServicePoint_ID": 1276519742,
+   "CITY": "Heidelberg",
+   "loc": {
+    "type":"Point",
+  "Coordinates": [49.4122,8.71]
+  },
+   "Country": "Germany",
+   "State": "Baden-W�rttemberg",
+   "TotalNumberOfCars": 25,
+   "NumberOfActiveBookings": 2,
+   "CarsAvailable": 23
+ },
+ {
+   "ServicePoint_ID": 1276377359,
+   "CITY": "Heilbronn",
+   "loc": {
+    "type":"Point",
+  "Coordinates": [49.1404,9.218]
+  },
+   "Country": "Germany",
+   "State": "Baden-W�rttemberg",
+   "TotalNumberOfCars": 100,
+   "NumberOfActiveBookings": 61,
+   "CarsAvailable": 39
+ },
+ {
+   "ServicePoint_ID": 1276002212,
+   "CITY": "Ulm",
+   "loc": {
+    "type":"Point",
+  "Coordinates": [48.3984,9.9916]
+  },
+   "Country": "Germany",
+   "State": "Baden-W�rttemberg",
+   "TotalNumberOfCars": 50,
+   "NumberOfActiveBookings": 44,
+   "CarsAvailable": 6
+ },
+ {
+   "ServicePoint_ID": 1276732622,
+   "CITY": "Pforzheim",
+   "loc": {
+    "type":"Point",
+  "Coordinates": [48.895,8.705]
+  },
+   "Country": "Germany",
+   "State": "Baden-W�rttemberg",
+   "TotalNumberOfCars": 50,
+   "NumberOfActiveBookings": 30,
+   "CarsAvailable": 20
+ },
+ {
+   "ServicePoint_ID": 1276256795,
+   "CITY": "Reutlingen",
+   "loc": {
+    "type":"Point",
+  "Coordinates": [48.4833,9.2167]
+  },
+   "Country": "Germany",
+   "State": "Baden-W�rttemberg",
+   "TotalNumberOfCars": 50,
+   "NumberOfActiveBookings": 42,
+   "CarsAvailable": 8
+ },
+ {
+   "ServicePoint_ID": 1276803720,
+   "CITY": "Ludwigsburg",
+   "loc": {
+    "type":"Point",
+  "Coordinates": [48.8975,9.1919]
+  },
+   "Country": "Germany",
+   "State": "Baden-W�rttemberg",
+   "TotalNumberOfCars": 100,
+   "NumberOfActiveBookings": 68,
+   "CarsAvailable": 32
+ },
+ {
+   "ServicePoint_ID": 1276510955,
+   "CITY": "Esslingen",
+   "loc": {
+    "type":"Point",
+  "Coordinates": [48.7406,9.3108]
+  },
+   "Country": "Germany",
+   "State": "Baden-W�rttemberg",
+   "TotalNumberOfCars": 100,
+   "NumberOfActiveBookings": 96,
+   "CarsAvailable": 4
+ },
+ {
+   "ServicePoint_ID": 1276918130,
+   "CITY": "Kornwestheim",
+   "loc": {
+    "type":"Point",
+  "Coordinates": [48.8597,9.185]
+  },
+   "Country": "Germany",
+   "State": "Baden-W�rttemberg",
+   "TotalNumberOfCars": 50,
+   "NumberOfActiveBookings": 42,
+   "CarsAvailable": 8
+ },
+ {
+   "ServicePoint_ID": 1276346018,
+   "CITY": "Weingarten",
+   "loc": {
+    "type":"Point",
+  "Coordinates": [47.8078,9.6417]
+  },
+   "Country": "Germany",
+   "State": "Baden-W�rttemberg",
+   "TotalNumberOfCars": 25,
+   "NumberOfActiveBookings": 4,
+   "CarsAvailable": 21
+ },
+ {
+   "ServicePoint_ID": 1276579726,
+   "CITY": "Eppelheim",
+   "loc":{
+     "type":"Point",
+     "Coordinates":[49.4011,8.6297]
+   },
+   "Country": "Germany",
+   "State": "Baden-W�rttemberg",
+   "TotalNumberOfCars": 25,
+   "NumberOfActiveBookings": 23,
+   "CarsAvailable": 2
+ }
+]
